@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1750678578 source:c:\users\user\desktop\c dersleri\finalcalismasi_11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
